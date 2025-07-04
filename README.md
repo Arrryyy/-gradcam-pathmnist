@@ -46,7 +46,9 @@ This repo is intended for researchers, practitioners, and students interested in
 ## 🎥 GradCAM in Action
 
 <p align="center">
+  <img src="assets/images/gradcam_demo.gif" width="45%" />
   <img src="assets/images/image.png" width="45%" />
+
 </p>
 
 > These examples show how GradCAM overlays attention maps on top of chest X-rays, giving us a transparent look into model decisions.
