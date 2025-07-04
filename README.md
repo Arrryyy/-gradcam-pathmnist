@@ -120,7 +120,7 @@ This workflow mimics what hospitals might eventually use:
 ## 🧑‍💻 Author
 
 **Aryan Jain**  
-M.Sc. Artificial Intelligence @ Deggendorf Institute of Technology  
+B.Sc. Artificial Intelligence @ Deggendorf Institute of Technology  
 📫 [LinkedIn](https://www.linkedin.com/in/aryan-jain-5b2634136/)  
 
 ---
