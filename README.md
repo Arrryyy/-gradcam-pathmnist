@@ -2,7 +2,7 @@
 
 ### A Visual Explanation Tool for Medical AI Models
 
-> 🚀 Built with PyTorch, MedMNIST, and GradCAM — July {date.today().strftime("%d, %Y")}
+> 🚀 Built with PyTorch, MedMNIST, and GradCAM — June 2025
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](link-to-your-notebook)
