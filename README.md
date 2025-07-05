@@ -106,6 +106,23 @@ This is intended as a **prototype and educational demo** — not a clinical-grad
 
 ---
 
+## 📈 Evaluation Metrics
+
+To assess the performance of our multi-label ResNet classifier on the ChestMNIST dataset, we computed a suite of evaluation metrics:
+
+## 🔹 Per-Class AUROC
+Area Under the Receiver Operating Characteristic curve computed for each of the 14 disease classes. This gives insight into the model’s ability to distinguish between positive and negative cases per condition.
+
+## 🔹  Macro & Micro Averaged AUROC
+	•	Macro AUROC: Treats each class equally by averaging their AUROCs.
+	•	Micro AUROC: Aggregates across all classes and instances to give a global performance score.
+
+## 🔹 Precision, Recall, and F1-Score
+We thresholded the predicted probabilities at 0.5 to generate binary predictions and computed:
+	•	Precision: How many predicted positives were actually correct
+	•	Recall: How many actual positives were correctly identified
+	•	F1-Score: Balance between precision and recall
+
 ## ⚕️ Real-World Use Case
 
 Explainable deep learning is increasingly essential in healthcare, especially in radiology. A model that performs well but is a black box is difficult to trust in a clinical setting.
